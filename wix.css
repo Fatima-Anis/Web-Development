@@ -1,0 +1,68 @@
+
+li{
+    display: inline-block;
+    padding-top: 0px;
+    padding-right:36px ;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+        padding-top: 0px;
+   
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+
+div{
+    margin-bottom: 1px;
+    margin-top: 1px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+h1{
+    font-size: 96px;
+    font-family: madefor-display-bold,helveticaneuew01-65medi,helveticaneuew02-65medi,helveticaneuew10-65medi,sans-serif; ;
+    text-align: center;
+    letter-spacing: normal;
+    line-height: normal;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: normal;
+}
+h3{
+    cursor: pointer !important;
+    text-align: center;
+    font-size: 10px;
+    
+
+}
